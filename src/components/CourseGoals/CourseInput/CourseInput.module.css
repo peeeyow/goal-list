@@ -24,9 +24,10 @@
 }
 
 .form-control.invalid input {
-  background-color: salmon;
+  background: #ffd7d7;
+  border-color: red;
 }
 
 .form-control.invalid label {
-  color: salmon;
+  color: red;
 }
